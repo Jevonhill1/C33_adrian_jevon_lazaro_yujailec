@@ -1,6 +1,7 @@
 ## C33 Pitch Day Projects
 
 Cookbook page - favorite recipes:
+![](readme_assets/images/mealfy.png)
 
 ![](readme_assets/images/Cookbook_page.png)
 
